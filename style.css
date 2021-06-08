@@ -11,3 +11,14 @@ h3{
   color: #444444;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
+
+a{
+  font-weight:100;
+  color: #234574;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+a:hover{
+  font-weight:500;
+  color: #5E020B;
+}
